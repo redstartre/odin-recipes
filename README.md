@@ -1,7 +1,7 @@
 # odin-recipes
-A few recipes I found personally interesting, linked and organized in an HTML document.
+A few recipes I personally adore, linked and organized into HTML documents.
 
-This demonstrates proficiency in: 
+This demonstrates my proficiency in: 
 - reference absolute and relative links to anchor elements
 - reference, size, alt text images
 - headings, paragraphs, unordered and ordered lists
