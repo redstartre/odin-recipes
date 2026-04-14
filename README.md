@@ -5,3 +5,4 @@ This demonstrates my proficiency in:
 - reference absolute and relative links to anchor elements
 - reference, size, alt text images
 - headings, paragraphs, unordered and ordered lists
+- using git, github, and commit messages
